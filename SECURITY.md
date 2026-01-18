@@ -5,7 +5,7 @@ BlackVoice is a privacy-first PWA focused on end-to-end encrypted communications
 ## Reporting a Vulnerability
 If you discover a security vulnerability, please report it privately (do not create public issues).
 
-- Email: security@blackvoice.tech  
+- Email: contact@blackvoice.tech  
 - PGP key available upon request (contact us first)  
 - Expected response time: within 72 hours for initial acknowledgment
 
